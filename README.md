@@ -1,2 +1,3 @@
 # PHP-Tela-de-Login
-Um projeto tela de login e cadastro de usuário para treinar conexões de banco de dados onde foi usado PHP e Sql (back-ending)
+para treinar conexões de banco de dados, criei este projeto de tela de login e cadastro de usuários simples, onde foi usado PHP e SQL para o Back-end e HTML para as Telas.
+vale destacar que esse é um projeto recuperado de outra máquina onde eu trabalhava meus projetos em um escritório o qual não estou mais trabalhando.
